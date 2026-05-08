@@ -103,7 +103,14 @@ const scrollToSection = (e, id) => {
         class="px-6 py-3 border border-border-strong text-text font-semibold text-sm transition-colors duration-200 hover:border-accent hover:text-accent"
         @click="(e) => scrollToSection(e, '#projects')"
       >
-        View work ↓
+        View Projects ↓
+      </a>
+      <a
+        href="/resume.pdf"
+        target="_blank"
+        class="px-6 py-3 border border-border-strong text-text font-semibold text-sm transition-colors duration-200 hover:border-accent hover:text-accent"
+      >
+        View Resume
       </a>
     </div>
   </section>
