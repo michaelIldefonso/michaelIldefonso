@@ -108,9 +108,9 @@ const scrollToSection = (e, id) => {
       <a
         href="/resume.pdf"
         target="_blank"
-        class="px-6 py-3 border border-border-strong text-text font-semibold text-sm transition-colors duration-200 hover:border-accent hover:text-accent"
+        class="px-6 py-3 border border-border text-text-muted font-semibold text-sm transition-colors duration-200 hover:text-text hover:border-border-strong"
       >
-        View Resume
+        View Resume ↗
       </a>
     </div>
   </section>
