@@ -43,7 +43,7 @@ const tags = ['Backend-first', 'Full-stack', 'Open to work']
         <div class="flex flex-col gap-4 text-text-secondary mt-4 text-sm leading-relaxed">
           <p>
             I'm a
-            <strong class="text-text font-semibold">final-year Computer Science student</strong> and
+            <strong class="text-text font-semibold">Computer Science graduate</strong> and
             <strong class="text-text font-semibold">Full-Stack Developer</strong> building at the
             intersection of
             <strong class="text-text font-semibold">backend architecture</strong> and modern
